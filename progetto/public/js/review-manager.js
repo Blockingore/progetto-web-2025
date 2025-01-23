@@ -26,20 +26,6 @@ class ReviewManager {
             throw reviewsJson;
         }
     } 
- 
-    //ritorna una recensione dato l'id
-    // static getReviewById = async (id) => {
-    //     let response = await fetch(`/api/reviews/${id}`);
-    //     const reviewsJson = await response.json();
-
-    //     if (response.ok) {
-    //         const review = Review.from(reviewsJson);
-    //         return review;
-    //     } 
-    //     else {
-    //         throw reviewsJson;
-    //     }
-    // }
 
     //aggiunge una recensione alla lista
     static addReview = async (review) => {

@@ -171,6 +171,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Umberto Condello 20029945",
+  "author": "Luca Iacobucci 20035727",
   "license": "ISC"
 }
