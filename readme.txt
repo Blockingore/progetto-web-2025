@@ -1,5 +1,3 @@
-LINK VIDEO PRESENTAZIONE -> https://youtu.be/MAXLus2fhJo
-
 ---------------------------------------------
 
 Lista di pacchetti node.js richiesti:
