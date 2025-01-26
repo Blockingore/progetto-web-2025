@@ -1,3 +1,5 @@
+https://youtu.be/pOOTe59Voao
+
 ---------------------------------------------
 
 Lista di pacchetti node.js richiesti:
@@ -10,6 +12,7 @@ Lista di pacchetti node.js richiesti:
 	passport-local
 	bcrypt
 	express-session
+
 	sqlite3
 
 L'applicazione web si avvia con il comando da terminale
@@ -19,8 +22,8 @@ L'applicazione web si avvia con il comando da terminale
 
 Nel DB sono già presenti
 2 utenti admin:
-	•admin1.vsp.it  
-	•admin2.vsp.it 
+	•admin1@vsp.it  
+	•admin2@vsp.it 
 4 utenti clienti:
 	•user1@gmail.com
 	•user2@gmail.com
