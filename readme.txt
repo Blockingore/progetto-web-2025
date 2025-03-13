@@ -1,7 +1,3 @@
-https://youtu.be/pOOTe59Voao
-
----------------------------------------------
-
 Lista di pacchetti node.js richiesti:
 	express
 	morgan
